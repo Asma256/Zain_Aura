@@ -1047,7 +1047,6 @@ input[type="reset"]:hover {
       width: 100%;
   }
 }
-
 @media (max-width: 480px) {
   .nav {
       display: none;
