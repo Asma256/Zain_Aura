@@ -319,8 +319,8 @@ a {
 
 .social-icon:hover {
     background: #ffe4f8;
+    transform: scale(1.05);
 }
-
 .footer-bottom {
     margin-top: 1rem;
     text-align: center;
